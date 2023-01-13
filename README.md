@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **rahulmeetawa/rahulmeetawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on Optimizory Technologies Private Limited
+🌱 I’m currently learning React js,Rest API
+💬 Ask me about C, C++,oops,dsa,JavaScript,React js,git
+📫 How to reach me: Email address in my profile
