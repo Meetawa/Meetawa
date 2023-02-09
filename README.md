@@ -9,5 +9,5 @@
 
 - [Twitter](https://twitter.com/rahumeetawa)
 - [LinkedIn](https://www.linkedin.com/in/rahul-saini-3950501a2/)
-- [FaceBook](https://www.facebook.com/profile.php?id=100021983603336/)
+- [FaceBook](https://www.facebook.com/profile.php?id=100021983603336)
 - [Instagram](https://www.instagram.com/mr.meetawa/)
