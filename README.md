@@ -9,7 +9,7 @@
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='5"'>
 
    - 🔭 I’m currently working on Optimizory Technologies Private Limited<br/>. 
-   - 🌱 I’m currently learning React Dev.<br/>
+   - 🌱 I’m currently learning React Dev<br/>
    - 💬 Ask me about C, C++,Oops,Dsa,JavaScript,TypeScript,React JS,Json,Rest API,git and github<br/> 
    - 😄 Pronouns: HE /Her.<br/>
    - 📫 How to reach me: Email address
