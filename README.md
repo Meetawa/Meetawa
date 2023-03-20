@@ -13,7 +13,7 @@
 <p align="left">
 
  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahulmeetawa)
- [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/rahulmeetawa)
+ [![GitHub](https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulmeetawa)
 
 <p align="left">
    <!-- ---------------------------------------------------------------- -->
