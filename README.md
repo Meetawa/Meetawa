@@ -10,7 +10,7 @@
 
    - 🔭 I’m currently working on Optimizory Technologies Private Limited.<br/>
    - 🌱 I’m currently learning React Dev.<br/>
-   - 💬 Ask me about C, C++,Oops,Dsa,JavaScript,TypeScript,React JS,Json,Rest API,NVM,NPM,git and github.<br/> 
+   - 💬 Ask me about C, C++,Oops,Dsa,JavaScript,TypeScript,React JS,Json,Rest API,NVM,NPM.<br/> 
    - 😄 Pronouns: He/Him.<br/>
    - 📫 How to reach me: Email address
    </a>
