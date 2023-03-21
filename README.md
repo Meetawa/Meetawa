@@ -4,10 +4,10 @@
 
 ## About Me (Intro)
    <p align="center">
-   -Experienced Frontend Developer specializing in user-centered design, behaviour driven web-development, HTML5, CSS3,Bootstrap,JavaScript,TypeScript,React JS. 
-   -Strong engineering professional with a Bachelor’s Degree focused in Computer Science and Technology from B.K. Birla Institute of Engineering & Technology,pilani
   <p align="left">
    <a>
+   -Experienced Frontend Developer specializing in user-centered design, behaviour driven web-development, HTML5, CSS3,Bootstrap,JavaScript,TypeScript,React JS.<br/>
+   -Strong engineering professional with a Bachelor’s Degree focused in Computer Science and Technology from B.K. Birla Institute of Engineering & Technology,pilani<br/>
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='5"'>
 
    - 🔭 I’m currently working on Optimizory Technologies Private Limited.<br/>
