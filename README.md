@@ -1,4 +1,4 @@
-<h1> > Hii there 👋, It's Rahul Saini, I'm a Software Intern </h1>
+<h1>Hii there 👋, It's Rahul Saini, I'm a Software Intern </h1>
 
 <!-- ---------------------------------------------------------------- --> 
 
