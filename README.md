@@ -8,7 +8,7 @@
  
   <!-- ---------------------------------------------------------------- --> 
   
-<h1>Hii there 👋, It's Rahul Saini, I'm a Software Intern </h1>
+<h1>![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Rahul Saini;I'm+from+india;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)</h1>
    -Experienced Frontend Developer specializing in user-centered design, behaviour driven web-development, HTML5, CSS3,Bootstrap,JavaScript,TypeScript,React JS.<br/>
    -Strong engineering professional with a Bachelor’s Degree focused in Computer Science and Technology from B.K. Birla Institute of Engineering & Technology,pilani<br/>
 <!-- ---------------------------------------------------------------- --> 
