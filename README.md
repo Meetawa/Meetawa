@@ -42,6 +42,7 @@
  [![GitHub](https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.meetawa)<br/>
 
    <!-- ---------------------------------------------------------------- -->
+ ![Snake animation](https://github.com/rahulmeetawa/rahulmeetawa/blob/output/github-contribution-grid-snake.svg
  
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
