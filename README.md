@@ -1,8 +1,8 @@
 <div align="center" >
  
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com)]
+ <a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
  
  </div>
  
