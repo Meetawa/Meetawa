@@ -41,7 +41,8 @@
  [![FaceBook](https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021983603336")<br/>
  [![GitHub](https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.meetawa)<br/>
 
- 
-
    <!-- ---------------------------------------------------------------- -->
-
+ 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
