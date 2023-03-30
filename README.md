@@ -74,7 +74,7 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rahulmeetawa&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahulmeetawa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmeetawa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmeetawa&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulmeetawa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
