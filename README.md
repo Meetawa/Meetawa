@@ -72,7 +72,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
  
 # 📊 GitHub Stats
-![]https://github-readme-stats.vercel.app/api?username=rahulmeetawa<br/>
+![](https://github-readme-stats.vercel.app/api?username=rahulmeetawa)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahulmeetawa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmeetawa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
