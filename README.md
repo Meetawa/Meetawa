@@ -72,14 +72,14 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
  
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rahulmeetawa&theme=dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulmeetawa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Meetawa&theme=dark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Meetawa&theme=dark&hide_border=false)<br/>
  
  # 🌏 Most Used Languages
  
  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmeetawa&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetawa&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulmeetawa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
