@@ -77,8 +77,6 @@
  
  # 🌏 Most Used Languages
  
- <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetawa&theme=dark)
 
 ## 🏆 GitHub Trophies
