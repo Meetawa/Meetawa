@@ -77,7 +77,7 @@
  
  # 🌏 Most Used Languages
 <img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=Meetawa"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetawa"
 />
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Meetawa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
