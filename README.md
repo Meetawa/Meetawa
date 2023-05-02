@@ -76,7 +76,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Meetawa&theme=dark&hide_border=false)<br/>
  
  # 🌏 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetawa&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetawa&&show_icons=true&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Meetawa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
