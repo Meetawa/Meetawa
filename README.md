@@ -72,7 +72,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
  
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Meetawa&theme=dark)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meetawa&&show_icons=true&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Meetawa&theme=dark&hide_border=false)<br/>
  
  # 🌏 Most Used Languages
