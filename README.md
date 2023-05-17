@@ -10,7 +10,7 @@
  
   <!-- ---------------------------------------------------------------- --> 
   
-<h1>Hii there 👋, It's Rahul Sa</h1>
+<h1>Hii there 👋, It's Rahul S</h1>
    -Experienced Frontend Developer specializing in user-centered design, behaviour driven web-development, HTML5, CSS3,Bootstrap,JavaScript,TypeScript,React JS.<br/>
    -Strong engineering professional with a Bachelor’s Degree focused in Computer Science and Technology from B.K. Birla Institute of Engineering & Technology,pilani<br/>
    
